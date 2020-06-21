@@ -31,7 +31,7 @@ bin/
 .project
 .iml
 .html
-.xml
 
 # .idea file in intellij IEDA
 *.idea
+/SeleniumRelativeLocators.iml
